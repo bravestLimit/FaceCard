@@ -1,6 +1,6 @@
 # FaceCard Mobile App
 
-## FaceCard is a web Application that authenticate and allows payment using credit cards.
+## FaceCard is a web Application that authenticate and allows payment using debit cards.
 
 ### This was a project I was asked to build to get into the Andela DevC programme.
 
