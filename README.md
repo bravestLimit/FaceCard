@@ -2,7 +2,7 @@
 
 ## FaceCard is a web Application that authenticate and allows payment using credit cards.
 
-### This is  project I was asked to build to get into the Andela DevC programme.
+### This was a project I was asked to build to get into the Andela DevC programme.
 
 * It only allows two cards type, mastercard and visa.
 
